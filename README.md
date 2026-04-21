@@ -66,3 +66,58 @@ Project studi kasus nyata sistem perpustakaan. Mata kuliah Pemrograman Web 2, me
 
 5.2 5 buku termahal dari buku aktif  
 ![5.2 5 buku termahal dari buku aktif](dokumentasi/5.2.png)
+
+## Tugas 2 (Pertemuan 6) : Desain Database Lengkap (60%)
+
+### ERD
+
+![ERD](ERD.png)
+
+### Screenshot
+
+#### Struktur semua tabel
+
+1. Tabel anggota
+   ![Tabel Anggota](SS_Tugas2_P6/Struktur%20Tabel/anggota.png)
+
+2. Tabel buku  
+   ![Tabel Buku](SS_Tugas2_P6/Struktur%20Tabel/buku.png)
+
+3. Tabel kategori_buku
+   ![Tabel Kategori](SS_Tugas2_P6/Struktur%20Tabel/kategori_buku.png)
+
+4. Tabel penerbit  
+   ![Tabel Penerbit](SS_Tugas2_P6/Struktur%20Tabel/penerbit.png)
+5. Tabel transaksi
+   ![Tabel transaksi](SS_Tugas2_P6/Struktur%20Tabel/transaksi.png)
+
+#### Data di setiap tabel
+
+1. Data tabel anggota  
+   ![Data tabel anggota](SS_Tugas2_P6/Data%20Tabel/anggota.png)
+
+2. Data tabel buku  
+   ![Data tabel buku](SS_Tugas2_P6/Data%20Tabel/buku.png)
+
+3. Data tabel kategori_buku  
+   ![Data tabel kategori_buku](SS_Tugas2_P6/Data%20Tabel/kategori_buku.png)
+
+4. Data tabel penerbit  
+   ![Data tabel penerbit](SS_Tugas2_P6/Data%20Tabel/penerbit.png)
+
+5. Data tabel transaksi  
+   ![Data tabel transaksi](SS_Tugas2_P6/Data%20Tabel/transaksi.png)
+
+#### Hasil query JOIN
+
+1. Query JOIN 1
+    ![JOIN 1](SS_Tugas2_P6/Hasil%20Query/join_1.png)
+
+2. Query JOIN Jumlah Buku Per Kategori  
+  ![Jumlah Buku Per Kategori](SS_Tugas2_P6/Hasil%20Query/jmlBuku_kategori.png)
+
+3. Query JOIN Jumlah Buku Per Penerbit  
+  ![Jumlah Buku Per Penerbit](SS_Tugas2_P6/Hasil%20Query/jmlBuku_penerbit.png)
+
+4. Query JOIN Lengkap  
+  ![JOIN lengkap](SS_Tugas2_P6/Hasil%20Query/join_lengkap.png)
